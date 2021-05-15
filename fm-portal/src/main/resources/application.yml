@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: fm-portal
+  profiles:
+    active: dev

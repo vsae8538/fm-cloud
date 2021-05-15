@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: fm-registry
+  profiles:
+    active: dev
